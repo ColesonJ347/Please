@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Resume</title>
+    <style>
+        body {
+            background-color: powderblue;
+        }
+        h1 {
+            color: red;
+    }
+        h2 {
+            font-size: 160%;
+}
+        .custom-bg {#FFFDD0}
+            
+
+        .styled-div {:-moz-only-whitespace}
+            
+        
+    </style>
+</head>
+<body>
+    <h1>Welcome</h1>
+    <p>My Resume</p>
+    <p>My name is Coleson Jensen</p>
+    <p> 
+        <h2> style="font-size:160%;">Resume </h2>
+        body>
+        <iframe width="420" height="315" src="https://www.youtube.com/watch?v=3heFdpYAnsE"></iframe>
+    
+        <h2 style="font-size:160%;">Resume</h2>
+    
+        <p>Coleson Jensen
+        Provo, UT
+        385-707-7697
+        @gmail.com</p>
+    
+        <p style="font-size:160%;">Education</p>
+        <br>
+        <p>January 2022-Present</p>
+        <ul>
+            <li>Completion of Associates Degree in Accounting</li>
+        </ul>
+    
+        <p style="color:red; font-size:160%;">Experience</p>
+        <br>
+        <p>December 2022-Present</p>
+        <ul>
+            <li>Marketing Associates</li>
+            <li>Working on sites like Qwoted and Quora</li>
+            <li>Writing and building profiles for workers</li>
+            <li>Creating and Publishing Marketing Strategies</li>
+        </ul>
+    
+        <p style="color:red; font-size:160%;">Volunteer Experience</p>
+        <ul>
+            <li>Service of 2-year mission for the Church of Jesus Christ in Santiago Chile</li>
+        </ul>
+    
+        <p style="color:red; font-size:160%;">Awards and Skills</p>
+        <ul>
+            <li>Fluent in Spanish</li>
+            <li>Eagle Scout</li>
+        </ul>
+    
